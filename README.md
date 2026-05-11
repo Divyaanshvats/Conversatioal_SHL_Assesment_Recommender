@@ -1,4 +1,5 @@
 # Conversatioal_SHL_Assesment_Recommender
+LIVE APP:https://conversatioalshlassesmentrecommender-6ve8hrepsjw6q3qmdsehjr.streamlit.app/
 
 > A conversational AI-powered recommender system that surfaces structured SHL assessment suggestions from the official product catalog — built with FastAPI, BM25 retrieval, and Groq LLM reranking.
 
