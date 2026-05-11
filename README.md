@@ -165,4 +165,5 @@ streamlit run app.py
 
 ## License
 
-This project was built as part of an SHL assessment engineering challenge. All product catalog data belongs to SHL.
+MIT License
+
