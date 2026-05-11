@@ -1,0 +1,31 @@
+# Environment variables - NEVER commit this
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data files (Small enough to commit for evaluator convenience)
+# data/embeddings/*.index
+# data/embeddings/*.pkl
+# data/raw/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
