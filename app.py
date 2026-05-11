@@ -6,7 +6,9 @@ import requests
 import streamlit as st
 
 
-BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:8000")
+BACKEND_URL = os.getenv(
+    "BACKEND_URL",
+    "https://conversatioal-shl-assesment-recommender-3.onrender.com")
 CHAT_ENDPOINT = f"{BACKEND_URL}/chat"
 HEALTH_ENDPOINT = f"{BACKEND_URL}/health"
 
